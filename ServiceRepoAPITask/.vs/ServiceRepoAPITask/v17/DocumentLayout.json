@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Csharp\\ServiceRepoAPITask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\servicerepoapitask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:servicerepoapitask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:06:00.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:38:14.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductServices.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Services\\ProductServices.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:54:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Services\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Services\\IProductServices.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Services\\IProductServices.cs",
+              "RelativeToolTip": "Services\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:48:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:41:10.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:40:44.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:40:11.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRepoAPITask.csproj",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\ServiceRepoAPITask.csproj",
+              "RelativeDocumentMoniker": "ServiceRepoAPITask.csproj",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\ServiceRepoAPITask.csproj",
+              "RelativeToolTip": "ServiceRepoAPITask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T09:39:35.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+E:\Csharp\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+E:\Csharp\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+E:\Csharp\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+E:\Csharp\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

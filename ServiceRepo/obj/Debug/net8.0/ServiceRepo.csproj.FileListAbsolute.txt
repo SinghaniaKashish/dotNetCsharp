@@ -1,0 +1,14 @@
+E:\Csharp\ServiceRepo\bin\Debug\net8.0\ServiceRepo.exe
+E:\Csharp\ServiceRepo\bin\Debug\net8.0\ServiceRepo.deps.json
+E:\Csharp\ServiceRepo\bin\Debug\net8.0\ServiceRepo.runtimeconfig.json
+E:\Csharp\ServiceRepo\bin\Debug\net8.0\ServiceRepo.dll
+E:\Csharp\ServiceRepo\bin\Debug\net8.0\ServiceRepo.pdb
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ServiceRepo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ServiceRepo.AssemblyInfoInputs.cache
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ServiceRepo.AssemblyInfo.cs
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ServiceRepo.csproj.CoreCompileInputs.cache
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ServiceRepo.dll
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\refint\ServiceRepo.dll
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ServiceRepo.pdb
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ServiceRepo.genruntimeconfig.cache
+E:\Csharp\ServiceRepo\obj\Debug\net8.0\ref\ServiceRepo.dll

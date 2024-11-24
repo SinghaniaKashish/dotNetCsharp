@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "MiddlewareLogin.Controllers.TestController",
+    "Method": "GetPublicData",
+    "RelativePath": "api/Test/public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiddlewareLogin.Controllers.TestController",
+    "Method": "GetSecuredData",
+    "RelativePath": "api/Test/secured",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

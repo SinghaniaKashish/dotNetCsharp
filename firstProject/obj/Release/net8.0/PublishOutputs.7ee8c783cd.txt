@@ -1,0 +1,5 @@
+E:\Csharp\firstProject\bin\Release\net8.0\publish\firstProject.exe
+E:\Csharp\firstProject\bin\Release\net8.0\publish\firstProject.dll
+E:\Csharp\firstProject\bin\Release\net8.0\publish\firstProject.deps.json
+E:\Csharp\firstProject\bin\Release\net8.0\publish\firstProject.runtimeconfig.json
+E:\Csharp\firstProject\bin\Release\net8.0\publish\firstProject.pdb

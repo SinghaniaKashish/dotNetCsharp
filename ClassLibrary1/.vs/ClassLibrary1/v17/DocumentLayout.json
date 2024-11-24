@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Csharp\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEB1E3-3055-4D21-B929-C9B97DB78941}|..\\UnitTestProjectAdditionn\\UnitTestProjectAdditionn.csproj|e:\\csharp\\unittestprojectadditionn\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{179997EA-1FEE-41C1-A5AA-3ED1DA113E60}|ClassLibrary1.csproj|e:\\csharp\\classlibrary1\\additionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179997EA-1FEE-41C1-A5AA-3ED1DA113E60}|ClassLibrary1.csproj|solutionrelative:additionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Csharp\\UnitTestProjectAdditionn\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProjectAdditionn\\UnitTest1.cs",
+              "ToolTip": "E:\\Csharp\\UnitTestProjectAdditionn\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestProjectAdditionn\\UnitTest1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:30:28.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdditionClass.cs",
+              "DocumentMoniker": "E:\\Csharp\\ClassLibrary1\\AdditionClass.cs",
+              "RelativeDocumentMoniker": "AdditionClass.cs",
+              "ToolTip": "E:\\Csharp\\ClassLibrary1\\AdditionClass.cs",
+              "RelativeToolTip": "AdditionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:13:19.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

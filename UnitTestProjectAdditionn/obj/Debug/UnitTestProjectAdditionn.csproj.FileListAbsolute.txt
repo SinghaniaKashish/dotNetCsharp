@@ -1,0 +1,17 @@
+E:\Csharp\UnitTestProjectAdditionn\obj\Debug\UnitTestProjectAdditionn.csproj.AssemblyReference.cache
+E:\Csharp\UnitTestProjectAdditionn\obj\Debug\UnitTestProjectAdditionn.csproj.CoreCompileInputs.cache
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\UnitTestProjectAdditionn.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\UnitTestProjectAdditionn.pdb
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\ClassLibrary1.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\ClassLibrary1.pdb
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Csharp\UnitTestProjectAdditionn\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Csharp\UnitTestProjectAdditionn\obj\Debug\UnitTest.EFD82AE3.Up2Date
+E:\Csharp\UnitTestProjectAdditionn\obj\Debug\UnitTestProjectAdditionn.dll
+E:\Csharp\UnitTestProjectAdditionn\obj\Debug\UnitTestProjectAdditionn.pdb

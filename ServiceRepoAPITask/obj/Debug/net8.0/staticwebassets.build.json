@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dR2lplPsfOIGs6SD+BjH8rX9zC9wLQ8yUZQsjG/wfbI=",
+  "Source": "ServiceRepoAPITask",
+  "BasePath": "_content/ServiceRepoAPITask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

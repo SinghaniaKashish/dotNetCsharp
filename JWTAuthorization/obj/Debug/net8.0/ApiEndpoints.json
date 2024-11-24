@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "JWTAuthorization.Controllers.AuthController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTAuthorization.Controllers.AuthController",
+    "Method": "AddProduct",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "JWTAuthorization.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTAuthorization.Controllers.LoginController",
+    "Method": "ValidateCred",
+    "RelativePath": "api/Login/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cred",
+        "Type": "JWTAuthorization.Models.UserCredentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

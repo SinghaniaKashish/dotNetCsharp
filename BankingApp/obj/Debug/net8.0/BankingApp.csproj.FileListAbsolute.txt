@@ -1,0 +1,14 @@
+E:\Csharp\BankingApp\bin\Debug\net8.0\BankingApp.exe
+E:\Csharp\BankingApp\bin\Debug\net8.0\BankingApp.deps.json
+E:\Csharp\BankingApp\bin\Debug\net8.0\BankingApp.runtimeconfig.json
+E:\Csharp\BankingApp\bin\Debug\net8.0\BankingApp.dll
+E:\Csharp\BankingApp\bin\Debug\net8.0\BankingApp.pdb
+E:\Csharp\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+E:\Csharp\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+E:\Csharp\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+E:\Csharp\BankingApp\obj\Debug\net8.0\BankingApp.dll
+E:\Csharp\BankingApp\obj\Debug\net8.0\refint\BankingApp.dll
+E:\Csharp\BankingApp\obj\Debug\net8.0\BankingApp.pdb
+E:\Csharp\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
+E:\Csharp\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll

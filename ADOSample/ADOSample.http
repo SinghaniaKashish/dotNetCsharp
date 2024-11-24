@@ -1,0 +1,6 @@
+@ADOSample_HostAddress = http://localhost:5085
+
+GET {{ADOSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

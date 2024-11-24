@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "FilterExample1.Controllers.TestController",
+    "Method": "GetAdminData",
+    "RelativePath": "api/Test/admin-only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FilterExample1.Controllers.TestController",
+    "Method": "GetData",
+    "RelativePath": "api/Test/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FilterExample1.Controllers.TestController",
+    "Method": "GetLogs",
+    "RelativePath": "api/Test/logs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FilterExample1.Controllers.TestController",
+    "Method": "GetUserData",
+    "RelativePath": "api/Test/user-only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
