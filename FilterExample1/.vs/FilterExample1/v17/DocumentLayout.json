@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "E:\\Csharp\\FilterExample1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\filters\\validateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:filters\\validateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\filters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:filters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\middleware\\rolemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:middleware\\rolemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\services\\transactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:services\\transactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\filters\\roleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:filters\\roleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\filters\\validateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:filters\\validateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\filters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:filters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\filters\\transactionlogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:filters\\transactionlogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\services\\transactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:services\\transactionlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\filters\\roleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:filters\\roleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|e:\\csharp\\filterexample1\\middleware\\rolemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C78191-0B3E-4052-9631-5CED03FCE7A2}|FilterExample1.csproj|solutionrelative:middleware\\rolemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,58 +46,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
-              "ToolTip": "E:\\Csharp\\FilterExample1\\Controllers\\TestController.cs",
-              "RelativeToolTip": "Controllers\\TestController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T05:31:32.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Csharp\\FilterExample1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T05:26:03.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "E:\\Csharp\\FilterExample1\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCEAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T05:55:14.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "TransactionLogService.cs",
+              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Services\\TransactionLogService.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionLogService.cs",
+              "ToolTip": "E:\\Csharp\\FilterExample1\\Services\\TransactionLogService.cs",
+              "RelativeToolTip": "Services\\TransactionLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:58:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ValidateAttribute.cs",
               "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Filters\\ValidateAttribute.cs",
               "RelativeDocumentMoniker": "Filters\\ValidateAttribute.cs",
               "ToolTip": "E:\\Csharp\\FilterExample1\\Filters\\ValidateAttribute.cs",
               "RelativeToolTip": "Filters\\ValidateAttribute.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T06:05:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleAuthorizeAttribute.cs",
+              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Filters\\RoleAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\RoleAuthorizeAttribute.cs",
+              "ToolTip": "E:\\Csharp\\FilterExample1\\Filters\\RoleAuthorizeAttribute.cs",
+              "RelativeToolTip": "Filters\\RoleAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:53:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionLogAttribute.cs",
+              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Filters\\TransactionLogAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\TransactionLogAttribute.cs",
+              "ToolTip": "E:\\Csharp\\FilterExample1\\Filters\\TransactionLogAttribute.cs",
+              "RelativeToolTip": "Filters\\TransactionLogAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:52:42.339Z",
               "EditorCaption": ""
             },
             {
@@ -115,55 +128,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoleMiddleware.cs",
-              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\MIddleware\\RoleMiddleware.cs",
-              "RelativeDocumentMoniker": "MIddleware\\RoleMiddleware.cs",
-              "ToolTip": "E:\\Csharp\\FilterExample1\\MIddleware\\RoleMiddleware.cs",
-              "RelativeToolTip": "MIddleware\\RoleMiddleware.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBQAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T05:16:00.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RoleAuthorizeAttribute.cs",
-              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Filters\\RoleAuthorizeAttribute.cs",
-              "RelativeDocumentMoniker": "Filters\\RoleAuthorizeAttribute.cs",
-              "ToolTip": "E:\\Csharp\\FilterExample1\\Filters\\RoleAuthorizeAttribute.cs",
-              "RelativeToolTip": "Filters\\RoleAuthorizeAttribute.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAA0AAAAAAAAAA==",
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "E:\\Csharp\\FilterExample1\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:53:43.229Z",
+              "WhenOpened": "2024-11-21T05:31:32.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TransactionLogAttribute.cs",
-              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Filters\\TransactionLogAttribute.cs",
-              "RelativeDocumentMoniker": "Filters\\TransactionLogAttribute.cs",
-              "ToolTip": "E:\\Csharp\\FilterExample1\\Filters\\TransactionLogAttribute.cs",
-              "RelativeToolTip": "Filters\\TransactionLogAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Csharp\\FilterExample1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:52:42.339Z",
+              "WhenOpened": "2024-11-21T05:26:03.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TransactionLogService.cs",
-              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Services\\TransactionLogService.cs",
-              "RelativeDocumentMoniker": "Services\\TransactionLogService.cs",
-              "ToolTip": "E:\\Csharp\\FilterExample1\\Services\\TransactionLogService.cs",
-              "RelativeToolTip": "Services\\TransactionLogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "RoleMiddleware.cs",
+              "DocumentMoniker": "E:\\Csharp\\FilterExample1\\Middleware\\RoleMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\RoleMiddleware.cs",
+              "ToolTip": "E:\\Csharp\\FilterExample1\\Middleware\\RoleMiddleware.cs",
+              "RelativeToolTip": "Middleware\\RoleMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBQAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:58:13.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T05:16:00.878Z"
             }
           ]
         }

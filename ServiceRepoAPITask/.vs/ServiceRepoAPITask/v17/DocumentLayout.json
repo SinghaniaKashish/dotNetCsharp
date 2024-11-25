@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9896EEE1-8699-403B-85BC-6432EFB8A563}|ServiceRepoAPITask.csproj|e:\\csharp\\servicerepoapitask\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:38:14.978Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,32 +73,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T09:38:14.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ProductServices.cs",
               "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Services\\ProductServices.cs",
               "RelativeDocumentMoniker": "Services\\ProductServices.cs",
               "ToolTip": "E:\\Csharp\\ServiceRepoAPITask\\Services\\ProductServices.cs",
               "RelativeToolTip": "Services\\ProductServices.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T09:54:52.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IProductServices.cs",
               "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Services\\IProductServices.cs",
               "RelativeDocumentMoniker": "Services\\IProductServices.cs",
@@ -93,8 +93,7 @@
               "RelativeToolTip": "Services\\IProductServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T09:48:14.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T09:48:14.91Z"
             },
             {
               "$type": "Document",
@@ -106,12 +105,11 @@
               "RelativeToolTip": "Repositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T09:41:10.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T09:41:10.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\Csharp\\ServiceRepoAPITask\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T09:40:44.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T09:40:44.931Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T09:40:11.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T09:40:11.436Z"
             },
             {
               "$type": "Document",
