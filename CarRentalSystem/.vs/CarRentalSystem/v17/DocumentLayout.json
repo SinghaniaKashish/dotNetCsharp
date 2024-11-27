@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "E:\\Csharp\\CarRentalSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\data\\carrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:data\\carrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\filters\\validateyearattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:filters\\validateyearattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\data\\carrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:data\\carrentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|e:\\csharp\\carrentalsystem\\filters\\validateyearattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B034BFF-1D1A-4765-87C9-788720CF87AF}|CarRentalSystem.csproj|solutionrelative:filters\\validateyearattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,53 +91,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Services\\CarService.cs",
-              "RelativeDocumentMoniker": "Services\\CarService.cs",
-              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Services\\CarService.cs",
-              "RelativeToolTip": "Services\\CarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CarController.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:23:17.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICarService.cs",
-              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Services\\ICarService.cs",
-              "RelativeDocumentMoniker": "Services\\ICarService.cs",
-              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Services\\ICarService.cs",
-              "RelativeToolTip": "Services\\ICarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:22:54.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
-              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "Repositories\\CarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:22:26.721Z",
+              "WhenOpened": "2024-11-27T07:32:30.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Repositories\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ICarRepository.cs",
-              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Repositories\\ICarRepository.cs",
-              "RelativeToolTip": "Repositories\\ICarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:22:03.6Z",
+              "WhenOpened": "2024-11-26T15:28:57.651Z",
               "EditorCaption": ""
             },
             {
@@ -112,7 +122,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Csharp\\CarRentalSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T12:06:56.818Z",
               "EditorCaption": ""
@@ -120,32 +130,189 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CarRentalDbContext.cs",
-              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Data\\CarRentalDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\CarRentalDbContext.cs",
-              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Data\\CarRentalDbContext.cs",
-              "RelativeToolTip": "Data\\CarRentalDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:03:22.678Z",
+              "WhenOpened": "2024-11-26T12:06:30.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:09:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:45:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginMiddleware.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Middleware\\LoginMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\LoginMiddleware.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Middleware\\LoginMiddleware.cs",
+              "RelativeToolTip": "Middleware\\LoginMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:30:19.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:59:42.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\Csharp\\CarRentalSystem\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-25T12:06:07.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T12:06:07.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:06:06.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:52:58.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "Services\\ICarService.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Services\\ICarService.cs",
+              "RelativeToolTip": "Services\\ICarService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:22:54.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Services\\CarService.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Services\\CarService.cs",
+              "RelativeToolTip": "Services\\CarService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:23:17.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:22:26.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:48:53.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Repositories\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICarRepository.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Repositories\\ICarRepository.cs",
+              "RelativeToolTip": "Repositories\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:22:03.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:36:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarRentalDbContext.cs",
+              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Data\\CarRentalDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CarRentalDbContext.cs",
+              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Data\\CarRentalDbContext.cs",
+              "RelativeToolTip": "Data\\CarRentalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:03:22.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ValidateYearAttribute.cs",
               "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Filters\\ValidateYearAttribute.cs",
               "RelativeDocumentMoniker": "Filters\\ValidateYearAttribute.cs",
@@ -153,34 +320,7 @@
               "RelativeToolTip": "Filters\\ValidateYearAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T11:28:52.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T11:09:17.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Car.cs",
-              "DocumentMoniker": "E:\\Csharp\\CarRentalSystem\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "Models\\Car.cs",
-              "ToolTip": "E:\\Csharp\\CarRentalSystem\\Models\\Car.cs",
-              "RelativeToolTip": "Models\\Car.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T10:36:02.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:28:52.466Z"
             }
           ]
         }

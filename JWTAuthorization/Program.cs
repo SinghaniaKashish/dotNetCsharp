@@ -6,17 +6,18 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+
 var jwtval = builder.Configuration.GetSection("Jwt");  //c
 var key = Encoding.UTF8.GetBytes(jwtval["Key"]);  //c
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 //db
 builder.Services.AddDbContext<AppDbContext>(i => i.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 //auth
 builder.Services.AddAuthentication(i => {
     i.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;

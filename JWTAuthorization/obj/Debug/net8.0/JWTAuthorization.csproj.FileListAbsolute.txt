@@ -167,3 +167,4 @@ E:\Csharp\JWTAuthorization\obj\Debug\net8.0\refint\JWTAuthorization.dll
 E:\Csharp\JWTAuthorization\obj\Debug\net8.0\JWTAuthorization.pdb
 E:\Csharp\JWTAuthorization\obj\Debug\net8.0\JWTAuthorization.genruntimeconfig.cache
 E:\Csharp\JWTAuthorization\obj\Debug\net8.0\ref\JWTAuthorization.dll
+E:\Csharp\JWTAuthorization\obj\Debug\net8.0\JWTAuthorization.sourcelink.json

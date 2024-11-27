@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Middleware\\LogineExtension.cs",
               "ToolTip": "E:\\Csharp\\MiddlewareLogin\\Middleware\\LogineExtension.cs",
               "RelativeToolTip": "Middleware\\LogineExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T15:46:14.077Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:07:35.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T15:07:35.876Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Middleware\\LoginMiddleware.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:07:15.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T15:07:15.789Z"
             },
             {
               "$type": "Document",

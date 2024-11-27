@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\Csharp\\MiddlewareLogin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|e:\\csharp\\middlewarelogin\\middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|solutionrelative:middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|e:\\csharp\\middlewarelogin\\middleware\\logineextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|solutionrelative:middleware\\logineextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|e:\\csharp\\middlewarelogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|e:\\csharp\\middlewarelogin\\middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|solutionrelative:middleware\\loginmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DF1FF67-FAFE-4563-AC9A-69BDE3C2B76D}|MiddlewareLogin.csproj|e:\\csharp\\middlewarelogin\\middlewarelogin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LogineExtension.cs",
               "DocumentMoniker": "E:\\Csharp\\MiddlewareLogin\\Middleware\\LogineExtension.cs",
               "RelativeDocumentMoniker": "Middleware\\LogineExtension.cs",
@@ -47,15 +47,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Csharp\\MiddlewareLogin\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Csharp\\MiddlewareLogin\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoginMiddleware.cs",
+              "DocumentMoniker": "E:\\Csharp\\MiddlewareLogin\\Middleware\\LoginMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\LoginMiddleware.cs",
+              "ToolTip": "E:\\Csharp\\MiddlewareLogin\\Middleware\\LoginMiddleware.cs",
+              "RelativeToolTip": "Middleware\\LoginMiddleware.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:07:35.876Z"
+              "WhenOpened": "2024-11-20T15:07:15.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,14 +73,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginMiddleware.cs",
-              "DocumentMoniker": "E:\\Csharp\\MiddlewareLogin\\Middleware\\LoginMiddleware.cs",
-              "RelativeDocumentMoniker": "Middleware\\LoginMiddleware.cs",
-              "ToolTip": "E:\\Csharp\\MiddlewareLogin\\Middleware\\LoginMiddleware.cs",
-              "RelativeToolTip": "Middleware\\LoginMiddleware.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAABAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Csharp\\MiddlewareLogin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Csharp\\MiddlewareLogin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T15:07:15.789Z"
+              "WhenOpened": "2024-11-20T15:07:35.876Z"
             },
             {
               "$type": "Document",
